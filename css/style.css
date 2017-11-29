@@ -81,7 +81,7 @@ a:hover, a:focus{
 	float:right;
 }
 
-.form-inline .form-control {
+.form-inline {
     margin: 8px;
     float: right;
     display: inline-block;
