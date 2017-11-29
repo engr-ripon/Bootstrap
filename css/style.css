@@ -81,6 +81,14 @@ a:hover, a:focus{
 	float:right;
 }
 
+.form-inline .form-control {
+    margin: 8px;
+    float: right;
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+}
+
 .footer{
     height: 50px;
     background-color: #44981F;
